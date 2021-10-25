@@ -1,1 +1,1 @@
-# StravAid# PermitFinder
+# PermitFinder
